@@ -2,4 +2,4 @@ synchronize:
   paths:
   - source: .
     exclude:
-    - "1/12/_autodiff.ipynb"
+    - "1/12/autodiff.ipynb"
